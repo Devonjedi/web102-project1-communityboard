@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo](community-board/democommunityboard.gif)
+<img src='/democommunityboard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... Quicktime player
 
