@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo](community-board/Screen%20Recording%202025-06-11%20at%204.47.00%E2%80%AFPM.gif)
+![Demo](community-board/democommunityboard.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... Quicktime player
 
